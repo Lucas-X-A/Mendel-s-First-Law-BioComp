@@ -50,5 +50,5 @@ m_ex = 23
 n_ex = 28
 
 probabilidade = calcular_prob_fenotipo_dominante(k_ex, m_ex, n_ex)
-print(f"População: k={k_ex}, m={m_ex}, n={n_ex}")
-print(f"Probabilidade de fenótipo dominante: {probabilidade:.5f}")
+print(f"Populacao: k={k_ex}, m={m_ex}, n={n_ex}")
+print(f"Probabilidade de fenotipo dominante: {probabilidade:.5f}")
